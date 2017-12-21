@@ -1,0 +1,10 @@
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\bin\Debug\TekmiCiftmi.exe.config
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\bin\Debug\TekmiCiftmi.exe
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\bin\Debug\TekmiCiftmi.pdb
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.csprojResolveAssemblyReference.cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.Properties.Resources.resources
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.csproj.GenerateResource.Cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.csproj.CoreCompileInputs.cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.exe
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.pdb
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.teklikCiftlik.resources
